@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="disease_spinner">
+        <item>All</item>
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+
+    </string-array>
+
+    <string-array name="bug_spinner">
+        <item>All</item>
+        <item>Brown marmorated stink bug</item>
+        <item>Citriculus mealybug</item>
+        <item>Citrus white fly</item>
+        <item>Corn ear worm</item>
+        <item>Cottonycution scale</item>
+        <item>Enongate cicada</item>
+        <item>Far eastern green stink bug</item>
+        <item>Giant looper-Ascotis selenaria</item>
+        <item>Giant mealybug</item>
+        <item>Planthopper</item>
+        <item>Indian wax scale</item>
+        <item>Oriental tea tortrix</item>
+        <item>Pink wax scale</item>
+        <item>Blue polished chafer</item>
+        <item>Snail</item>
+    </string-array>
+
+    <string-array name="symptom_spinner">
+        <item>All</item>
+        <item>식물을 흡즙</item>
+        <item>과실낙과</item>
+        <item>과피에 흑갈색 반점</item>
+        <item>과육착색</item>
+        <item>과실부패</item>
+        <item>흑갈색 딱지</item>
+        <item>배설물로 인한 그을음병</item>
+        <item>잎이 누레짐</item>
+        <item>잎과 과실을 먹음</item>
+        <item>가지가 마름</item>
+        <item>뿌리를 해침</item>
+    </string-array>
+
+</resources>
